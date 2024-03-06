@@ -13,5 +13,9 @@ alias ..='cd ..'
 alias ...='cd ../../'
 alias ....='cd ../../../'
 alias .....='cd ../../../../'
-alias see=explorer.exe
+
+## typo correction
 alias LS=ls
+
+## for WSL 
+alias see=explorer.exe
